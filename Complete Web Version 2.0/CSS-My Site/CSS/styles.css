@@ -1,0 +1,105 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1{
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    color: #66BFBF;
+    font-family: 'Sacramento' cursive; 
+    
+
+    
+}
+h2{
+    color: #66BFBF;
+    font-size: 2.5rem;
+    font-weight: normal;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+h3{
+    color:#11999E;
+    font-family: 'Montserrat', sans-serif;
+    
+    
+}
+
+.topContainer{
+    background-color: #c9f1ea;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middleContainer{
+
+}
+
+
+.bottomContainer{
+
+}
+
+.profile{
+    margin-top: 20;
+}
+
+.skill-row{
+    width: 50%;
+    margin:  100px  auto  100px  auto;
+    text-align: left;
+    line-height: 2;
+    
+}
+
+
+
+.pro{
+    text-decoration: underline;
+}
+.topCloud{
+    position: absolute;
+    right: 250px;
+    top: 50px;
+}
+.bottomCloud{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+.orangelaptop{
+    width: 25%;
+    float: left;
+    margin-right: 20;
+
+}
+.yellowwebdesign{
+    width: 25%;
+    float: right;
+    margin-left: 20;
+    padding-left: 20px;
+    
+}
+.footer-link{
+    color: #11999E;
+
+}
+.laptopParagraph{
+    
+    margin-bottom: 150px;
+}
+.webDesignParagraph{
+    
+    margin-bottom: 200px;
+    text-align: right;
+}
+.webDesignH3{
+    text-align: right;
+    padding-top: 50px;
+}
+.designDevH3{
+    padding-top: 20px;
+}
